@@ -840,12 +840,12 @@ https://matsuridayo.github.io/n-configuration/#vpn-tun</translation>
         <translation></translation>
     </message>
     <message>
-        <source>Отключить логи</source>
-        <translation></translation>
+        <source>Disable logs</source>
+        <translation>Отключить логи</translation>
     </message>
     <message>
         <source>Turn on this option if your connection is lost after a while</source>
-        <translation>Включите эту опцию, если соединение провадает через некоторое время</translation>
+        <translation>Включите эту опцию, если соединение пропадает через некоторое время</translation>
     </message>
 </context>
 <context>
